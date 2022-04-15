@@ -19,6 +19,9 @@ This software is free to distribute, modify and use with the condition that cred
 ### Introduction
 
 
+A very, very simple sms bomber written in python and now java. You can adjust the amount of texts sent, and the interval at which they are sent (if you want any). For educational purposes only.
+
+
 ### Operating System Requirements
 
 SMS-BOMBER works on any of the following operating systems:<br>
