@@ -17,3 +17,16 @@
 This software is free to distribute, modify and use with the condition that credit is provided to the creator (Error-4-You) and is not for commercial use.
 
 ### Introduction
+
+
+### Operating System Requirements
+
+SMS-BOMBER works on any of the following operating systems:<br>
+
+• **Android** (Using the Termux App) <br>
+
+• **Linux** (Debian Based Systems) <br>
+
+• **Unix**
+
+------------------------------------------------------------------------
