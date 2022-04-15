@@ -33,3 +33,13 @@ SMS-BOMBER works on any of the following operating systems:<br>
 • **Unix**
 
 ------------------------------------------------------------------------
+
+### How to Install
+
+Open the terminal and type following commands.
+
+* ```apt update```
+
+* ```apt install git```
+
+* ```git clone ```
