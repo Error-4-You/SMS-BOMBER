@@ -42,4 +42,6 @@ Open the terminal and type following commands.
 
 * ```apt install git```
 
-* ```git clone ```
+* ```git clone https://github.com/Error-4-You/SMS-BOMBER.git```
+
+* ```cd SMS-BOMBER```
